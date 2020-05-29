@@ -1,29 +1,9 @@
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+# end-semester-web-project
+Xây dựng website bán hàng sử dụng Nodejs + Express + Mongoose
+Các kỹ thuật sử dụng: 
+- Xác thực bằng Passport
+- Giỏ hàng sử dụng localStorage, sync cart từ session vào DB của user
+- TÌm kiếm , lọc sản phẩm
+- hiển thị thông tin sản phẩm, đánh giá sản phẩm
+- Mail xác thực tài khoản và reset mật khẩu
+Kèm một số chức năng khác
